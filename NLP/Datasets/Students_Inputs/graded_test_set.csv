@@ -1,0 +1,9 @@
+question,student_answer,cleaned_answer,similarity_score,marks,correct_key_answer
+What is the stored food in a seed called?,it is called endosperm,call endosperm,0.8264533877372742,10,endosperm
+Alpha emission is a type of what?,it is a type of radio,type radio,0.563166618347168,6,radioactivity
+Alpha emission is a type of what?,it can be categorized as radioactivity,category radioactivity,0.8237634897232056,10,radioactivity
+Alpha emission is a type of what?,it is a kind of activity,kind activity,0.3957076966762543,3,radioactivity
+What is the stored food in a seed called?,we can call it endosprem,endosprem,0.8862937688827515,10,endosperm
+What is the termination of a pregnancy in progress called?,it is called aborting,call adopt,0.37594127655029297,3,abortion
+What is the termination of a pregnancy in progress called?,lets say it absorption,let absorption,0.16264663636684418,3,abortion
+What is the termination of a pregnancy in progress called?,it is known as abortion,know abortion,0.7829010486602783,8,abortion
